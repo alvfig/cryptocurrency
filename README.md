@@ -34,3 +34,12 @@
 1. https://www.bitbol.com.br
 1. https://paguecombitcoin.com
 
+## Outras Corretoras
+1. https://bitfinex.com
+1. https://bitstamp.com
+1. https://poloniex.com
+1. https://uphold.com
+
+## Plataforma de Gráficos
+1. https://barchart.com
+1. https://tradingview.com

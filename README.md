@@ -1,4 +1,4 @@
-# Some Crytpocurrency Resources
+# Some Cryptocurrency Resources
 
 ## Market Capitalization
 1. https://coinmarketcap.com/pt-br

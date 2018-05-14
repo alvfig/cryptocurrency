@@ -1,5 +1,12 @@
 # Some Cryptocurrency Resources
 
+## O Web Site
+1. https://bitcoin.org/pt_BR
+
+## Wallets
+1. https://bitcoin.org/pt_BR/escolha-sua-carteira
+1. https://blockchain.info/pt
+
 ## Market Capitalization
 1. https://coinmarketcap.com/pt-br
 1. https://coin360.io
@@ -50,3 +57,7 @@
 
 ## Diretório de Estabelecimentos
 1. https://coinmap.org
+
+## Explorar a Blockchain
+1. https://blockchain.info/pt
+1. https://live.blockcypher.com/btc

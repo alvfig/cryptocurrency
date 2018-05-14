@@ -34,6 +34,10 @@
 1. https://www.bitbol.com.br
 1. https://paguecombitcoin.com
 
+## Soluções para Lojas
+1. https://coinwise.io
+1. https://bitpay.com
+
 ## Outras Corretoras
 1. https://bitfinex.com
 1. https://bitstamp.com
@@ -43,3 +47,6 @@
 ## Plataforma de Gráficos
 1. https://barchart.com
 1. https://tradingview.com
+
+## Diretório de Estabelecimentos
+1. https://coinmap.org

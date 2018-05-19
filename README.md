@@ -58,6 +58,9 @@
 ## Diretório de Estabelecimentos
 1. https://coinmap.org
 
+## Receber Salário em Criptomoeda
+1. https://bitwage.com
+
 ## Explorar a Blockchain
 1. https://blockchain.info/pt
 1. https://live.blockcypher.com/btc

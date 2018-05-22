@@ -1,7 +1,11 @@
 # Some Cryptocurrency Resources
 
-## O Web Site
+## The Web Site
 1. https://bitcoin.org/pt_BR
+
+## The Bad Guys
+1. http://badbitcoin.org Contém uma lista de web sites SCAM
+1. https://www.bitcoin.com SCAM ALERT!! Não confunda Bitcoin com Bitcoin Cash
 
 ## Wallets
 1. https://bitcoin.org/pt_BR/escolha-sua-carteira

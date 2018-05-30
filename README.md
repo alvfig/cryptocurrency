@@ -11,6 +11,10 @@
 1. https://bitcoin.org/pt_BR/escolha-sua-carteira
 1. https://blockchain.info/pt
 
+### Paper Wallets
+1. https://bitaddres.org
+1. https://bitcoinpaperwallet.com
+
 ## Market Capitalization
 1. https://coinmarketcap.com/pt-br
 1. https://coin360.io

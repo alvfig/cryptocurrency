@@ -72,3 +72,6 @@
 ## Explorar a Blockchain
 1. https://blockchain.info/pt
 1. https://live.blockcypher.com/btc
+
+## Outros
+1. [Lista da NegocieCoins](https://www.negociecoins.com.br/lojas-aceitam-bitcoins)

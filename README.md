@@ -75,3 +75,5 @@
 
 ## Outros
 1. [Lista da NegocieCoins](https://www.negociecoins.com.br/lojas-aceitam-bitcoins)
+1. [Perguntas frequentes da Bitcoin Brasil](http://bitpedia.com.br/mediawiki/index.php?title=Regras_do_Bitcoin_Brasil)
+1. [coins2learn](https://coins2learn.com/) Simulador de trade de criptomoedas

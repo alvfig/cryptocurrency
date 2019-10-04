@@ -48,6 +48,7 @@
 ## Pagar Boleto - Recarregar Celular
 1. https://www.bitbol.com.br
 1. https://paguecombitcoin.com
+1. https://www.kamoney.com.br
 
 ## Soluções para Lojas
 1. https://coinwise.io

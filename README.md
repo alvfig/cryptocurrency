@@ -37,6 +37,7 @@
 1. https://www.bitcointoyou.com
 1. https://bitcointrade.com.br
 1. https://braziliex.com
+1. https://coinext.com.br
 1. https://www.coinx.com.br
 1. http://criptocambio.com.br
 1. https://flowbtc.com.br

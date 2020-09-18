@@ -21,6 +21,7 @@
 1. https://www.cryptocompare.com
 1. https://coincap.io
 1. https://www.barchart.com/crypto/market-capitalizations
+1. https://coingolive.com/pt-br/
 
 ## Preço
 1. https://biscoint.io

@@ -37,7 +37,7 @@
 1. https://www.bitbol.com.br
 1. https://bitcambio.com.br
 1. https://www.bitcointoyou.com
-1. https://bitcointrade.com.br (recomendada)
+1. https://www.bitcointrade.com.br (recomendada)
 1. https://braziliex.com
 1. https://coinext.com.br
 1. https://www.coinx.com.br

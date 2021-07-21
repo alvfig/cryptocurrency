@@ -7,6 +7,9 @@
 1. http://badbitcoin.org Contém uma lista de SCAM web sites
 1. https://www.bitcoin.com SCAM ALERT!! Não confunda Bitcoin com Bitcoin Cash
 
+## SCAM
+1. https://quantum.atlasproj.com
+
 ## Wallets
 1. https://bitcoin.org/pt_BR/escolha-sua-carteira
 1. https://blockchain.info/pt
@@ -31,9 +34,11 @@
 1. https://exchangewar.info
 1. https://exchangewar.info/coinprice?btc_brl
 
+## Bitcoin Fee
+1. https://bitcoiner.live
+
 ## Corretoras Brasileiras
 1. https://www.arenabitcoin.com
-1. https://quantum.atlasproj.com
 1. https://www.bitbol.com.br
 1. https://bitcambio.com.br
 1. https://www.bitcointoyou.com

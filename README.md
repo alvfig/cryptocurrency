@@ -84,6 +84,7 @@
 1. https://live.blockcypher.com/btc
 1. https://btc.com/
 1. https://blockstream.info/
+1. https://live.blockcypher.com
 
 ## Outros
 1. [Lista da NegocieCoins](https://www.negociecoins.com.br/lojas-aceitam-bitcoins)

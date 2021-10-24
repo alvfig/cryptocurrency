@@ -35,6 +35,7 @@
 1. https://exchangewar.info/coinprice?btc_brl
 
 ## Bitcoin Fee
+1. https://mempool.space/
 1. https://bitcoiner.live
 
 ## Corretoras Brasileiras
